@@ -13,7 +13,7 @@ Gegeven is de volgende constructie:
 ```{figure} ./lesoefeningen_data/structure.svg
 :align: center
 
-Constructie
+Constructie, $EI = \cfrac{250}{3} \ \rm{MNm^2}$
 ```
 
 :::::{exercise}
