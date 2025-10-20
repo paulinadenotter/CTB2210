@@ -11,13 +11,13 @@ De krachtenmethode is een aanpak om statisch onbepaalde constructies door te rek
 2. Transformeer de constructie in een statisch bepaald systeem door opleggingen weg te nemen, de constructie te splitsen bij pendelstaven of scharnieren toe te voegen: voeg onbekende statisch onbepaalde krachten en vervormingsvoorwaarden toe voor elke oplegging die je hebt weggenomen, aansluiting van de pendelstaven die je hebt weggenomen en scharnieren die je hebt toegevoegd. Let op dat je de constructie niet transformeert tot een (gedeeltelijk) mechanisme!
 
     `````{tab-set}
-    ````{tab-item} Weghalen oplegging
+    ````{tab-item} Splitsen constructie bij pendelstaven
     % Figures from https://github.com/TUDelft-books/CEG-mechanics-BSc/blob/EN/book/statically_inderminate/force_method/force_method_data/Tekening1.vsdx
     ```{figure} theorie_data/1.svg
     :align: center
     ```
     ````
-    ````{tab-item} Splitsen constructie bij pendelstaven
+    ````{tab-item} Weghalen oplegging
     ```{figure} theorie_data/2.svg
     :align: center
     ```
